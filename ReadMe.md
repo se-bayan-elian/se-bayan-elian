@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bayan Elian Alreqeb</h1>
 <h3 align="center">A MERN STACK web developer from Palestine</h3>
+https://www.codewars.com/users/se-bayan-elian/badges/large
 
 
 - 👨‍💻 All of my projects are available at [s^^n](s^^n)
