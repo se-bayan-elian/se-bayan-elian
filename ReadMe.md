@@ -5,8 +5,6 @@
 
 </p>
 
-- 👨‍💻 All of my projects are available at [s^^n](s^^n)
-
 - 💬 Ask me about **react , next js ,express js , mongo db**
 
 - 📫 How to reach me **bezo2024@gmail.com**
