@@ -53,7 +53,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-languages-stats-seven.vercel.app/api/top-langs/?username=se-bayan-elian&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-languages-stats-seven.vercel.appapi/top-langs/?username=se-bayan-elian&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
