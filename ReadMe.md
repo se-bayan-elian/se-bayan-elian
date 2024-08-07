@@ -46,14 +46,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://www.github-readme-stats.vercel.app/api?username=se-bayan-elian&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com?username=se-bayan-elian&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=se-bayan-elian&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-languages-stats-seven.vercel.appapi/top-langs/?username=se-bayan-elian&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-languages-stats-seven.vercel.app/api/top-langs/?username=se-bayan-elian&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
