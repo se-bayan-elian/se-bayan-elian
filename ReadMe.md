@@ -8,15 +8,13 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Bayan Elian</h1></summary>
     <summary><h2 style="display: inline-block">Experienced Nest.js | Next.js Developer | Software Engineer
 </h2></summary>
-
-
-    <details>
+  </ul>
+<p style="text-align: left">
 I am Bayan Elian Alreqeb, a Software Engineering graduate from the University of Palestine. With a solid foundation in software development, I am passionate about leveraging technology to create innovative and efficient solutions. I excel in analyzing complex problems, developing robust applications, and continuously expanding my technical expertise.
 
 Driven by a commitment to excellence, I have honed my skills through hands-on experience and academic projects, showcasing strong capabilities in software design and development. I am eager to contribute my knowledge and creativity to impactful projects, driving success and innovation in the tech world.
-</details>
+</p>
 
-  </ul>
 </div>
 
 
